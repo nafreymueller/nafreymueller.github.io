@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585816979774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "61195202",
+    "id" : "E0C6FDDF",
+    "lastKnownWriteTime" : 1585831194,
+    "last_content_update" : 1585831194291,
+    "path" : "~/Dropbox/Github/nafreymueller.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "56,81",
+        "scrollLine" : "47"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
